@@ -1,0 +1,8 @@
+Metric,Value,Percentage
+Accuracy,0.9415204678362573,94.15%
+Precision_malignant,0.9655172413793104,96.55%
+Recall_malignant,0.875,87.50%
+F1_malignant,0.9180327868852458,91.80%
+Precision_benign,0.9292035398230089,92.92%
+Recall_benign,0.9813084112149533,98.13%
+F1_benign,0.9545454545454545,95.45%

@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Linear SVM,0.9825,0.9825,0.9825,0.9825
+RBF SVM (Default),0.9766,0.9766,0.9766,0.9766
+Gradient Boosting,0.9766,0.9766,0.9766,0.9766
+RBF SVM (Optimized),0.9708,0.9736,0.9641,0.9685
+Logistic Regression,0.9474,0.9474,0.9474,0.9474
+Random Forest (200 trees),0.9415,0.9414,0.9415,0.9413
